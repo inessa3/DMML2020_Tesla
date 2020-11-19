@@ -17,7 +17,7 @@ Week 16-22 November:
         *   Clean the dataset (NaN values?, duplicates etc WRITE MORE LATER)
         *   Build a a model with SpaCy
         *   Make our first prediction
-2.  Upload on AIcrowd
+2.  Uploaded our csv file on AIcrowd
 
 Week 23-29 November:
 
