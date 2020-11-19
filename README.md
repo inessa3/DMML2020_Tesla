@@ -15,7 +15,7 @@ Week 16-22 November:
 1.   We have started working on the project in Colab
         *   Download and describe the training dataset (shape, base rate)
         *   Clean the dataset (NaN values?, duplicates etc WRITE MORE LATER)
-        *   Build a a model with SpaCy
+        *   Build a model with SpaCy
         *   Make our first prediction
 2.  Uploaded our csv file on AIcrowd
 
