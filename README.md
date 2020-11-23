@@ -18,6 +18,7 @@ Week 16-22 November:
         *   Build a model with SpaCy
         *   Make our first prediction
 2.  Uploaded our csv file on AIcrowd
+        *   Our accuracy was 0.803 and the F1 score 0.803, too.
 
 Week 23-29 November:
 
