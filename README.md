@@ -25,7 +25,8 @@ In this project we are going to build a Machine Learning model that can predict 
         *   We tuned the parameters of the classifier and vectorizer
         *   We also proceeded with EDA 📉
 2.   Uploaded several csv files on AIcrowd and, finally, upgraded our score
-        *   Our accuracy was 0.811 and the F1 score 0.811, too. 🎉
+        *   Our accuracy and the F1 was 0.811 🎉
+3.   Make a weekly update on Github and prepare PowerPoint
 
 🟣 Week 30-6 December:
 
