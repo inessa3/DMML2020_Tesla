@@ -6,29 +6,29 @@ In this project we are going to build a Machine Learning model that can predict 
 >**NLP**: is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
 [Source](https://en.wikipedia.org/wiki/Natural_language_processing)
 
-Week 9-15 November:
-1.   We got acquainted with each other 👧👦👧
+🟣 Week 9-15 November:
+1.   We got acquainted with each other 
 2.   We created slack channel, github repository for further collaboration (all the members are there 👍)
 3.   We also created a team on AIcrowd and joined the competition 🏆 
 
-Week 16-22 November:
-1.   We have started working on the project in Colab
+🟣 Week 16-22 November:
+1.   We have started working on the project in Colab 🗃
         *   Download and describe the training dataset (shape, base rate)
         *   Clean the dataset (duplicates etc WRITE MORE LATER)
         *   Build a model with SpaCy
-        *   Make our first prediction
+        *   Make our first prediction 🔮
 2.   Uploaded our csv file on AIcrowd
-        *   Our accuracy was 0.803 and the F1 score 0.803, too.
+        *   Our accuracy was 0.803 and the F1 score 0.803, too. 
 
-Week 23-29 November:
+🟣 Week 23-29 November:
 1.   We have continued working on the project in Colab
         *   We tuned the parameters of the classifier and vectorizer
-        *   We also proceeded with EDA
+        *   We also proceeded with EDA 📉
 2.   Uploaded several csv files on AIcrowd and, finally, upgraded our score
-        *   Our accuracy was 0.811 and the F1 score 0.811, too.
+        *   Our accuracy was 0.811 and the F1 score 0.811, too. 🎉
 
-Week 30-6 December:
+🟣 Week 30-6 December:
 
-Week 7-13 December:
+🟣 Week 7-13 December:
 
-Week 14-20 December:
+🟣 Week 14-20 December:
