@@ -14,13 +14,17 @@ Week 9-15 November:
 Week 16-22 November:
 1.   We have started working on the project in Colab
         *   Download and describe the training dataset (shape, base rate)
-        *   Clean the dataset (NaN values?, duplicates etc WRITE MORE LATER)
+        *   Clean the dataset (duplicates etc WRITE MORE LATER)
         *   Build a model with SpaCy
         *   Make our first prediction
-2.  Uploaded our csv file on AIcrowd
-       * Our accuracy was 0.803 and the F1 score 0.803, too.
+2.   Uploaded our csv file on AIcrowd
+        *   Our accuracy was 0.803 and the F1 score 0.803, too.
 
 Week 23-29 November:
+1.   We have continued working on the project in Colab
+        *   We tuned the parameters of the classifier and vectorizer
+2.   Uploaded several csv file on AIcrowd and, finally, upgraded our score
+        *   Our accuracy was 0.811 and the F1 score 0.811, too.
 
 Week 30-6 December:
 
