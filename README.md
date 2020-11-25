@@ -23,7 +23,8 @@ Week 16-22 November:
 Week 23-29 November:
 1.   We have continued working on the project in Colab
         *   We tuned the parameters of the classifier and vectorizer
-2.   Uploaded several csv file on AIcrowd and, finally, upgraded our score
+        *   We also proceeded with EDA
+2.   Uploaded several csv files on AIcrowd and, finally, upgraded our score
         *   Our accuracy was 0.811 and the F1 score 0.811, too.
 
 Week 30-6 December:
