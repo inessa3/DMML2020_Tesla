@@ -26,7 +26,7 @@ In this project we are going to build a Machine Learning model that can predict 
         *   We also proceeded with EDA 📉
 2.   Uploaded several csv files on AIcrowd and, finally, upgraded our score
         *   Our accuracy and the F1 was 0.811 🎉
-3.   Make a weekly update on Github and prepare PowerPoint
+3.   Maade a weekly update on Github (+downloaded our first code) and prepared PowerPoint
 
 🟣 Week 30-6 December:
 
