@@ -29,6 +29,12 @@ In this project we are going to build a Machine Learning model that can predict 
 3.   Made a weekly update on Github (+downloaded our first code) and prepared PowerPoint
 
 🟣 Week 30-6 December:
+1.   We have continued working on the project in Colab
+        *   We made additional data cleaning and try to do more predictions.
+        *   We tried grid-search to find better parameters (it does not help us to upgrade our score).
+        *   We have also worked on ther classifiers, mainly knn and decision trees.
+2.   Uploaded several csv files on AIcrowd but our score was not higher than the previous ones 😢
+3.   Made a weekly update on Github
 
 🟣 Week 7-13 December:
 
