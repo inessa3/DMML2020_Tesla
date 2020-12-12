@@ -37,5 +37,10 @@ In this project we are going to build a Machine Learning model that can predict 
 3.   Made a weekly update on Github
 
 🟣 Week 7-13 December:
+1.   We have continued working on the project in Colab
+        *   We tried to clean test data and repeat the predictions we had with the cleaned version but nothing has improved (we submitted that to AIcrowd but did not present it in notebooks).
+        *   Later, we have started preparing our notebooks. 
+2.   We took decisions on the structure of the notebooks, the ppt and video.So, we prepared the ppt to present in class.
+3.   Made a weekly update on Github
 
 🟣 Week 14-20 December:
