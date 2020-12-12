@@ -45,6 +45,7 @@ In this project we are going to build a Machine Learning model that can predict 
 
 📍 Week 14-20 December:
 
-🎥 The link to the video :
+🎥 The link to the video : (*to be added soon*)
+
+
 Enjoy!
-📍 Week 14-20 December:
