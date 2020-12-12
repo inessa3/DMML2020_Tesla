@@ -2,7 +2,7 @@
 ## Project for DM&amp;ML
 ## TESLA ( Inessa Khaneeva, Jakob Kampik, Mariem Guebibia )
 ### _Real or Not? NLP with Disaster Tweets_
-In this project we are going to build a Machine Learning model that can predict which tweets are about a real disaster and which are not. Firstly, we will clean data (the training data), then we will try to build the best possible binary classification model to predict whether a given tweet from another dataset (the test data) is talking about the real disaster or a fake one. We will aim to get the highest accuracy possible. Finally, we will continously submit our results on AIcrowd to compete with other teams.
+In this project we are going to build a Machine Learning model that can predict which tweets are about a real disaster and which are not. Firstly, we will clean data (the training data), then we will try to build the best possible binary classification model to predict whether a given tweet from another dataset (the test data) is talking about the real disaster or a fake one. We will aim to get the highest accuracy possible. Finally, we will continuously submit our results on AIcrowd to compete with other teams.
 >**NLP**: is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
 [Source](https://en.wikipedia.org/wiki/Natural_language_processing)
 
