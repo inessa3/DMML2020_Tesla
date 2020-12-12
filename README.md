@@ -44,3 +44,7 @@ In this project we are going to build a Machine Learning model that can predict 
 3.   Made a weekly update on Github
 
 📍 Week 14-20 December:
+
+🎥 The link to the video :
+Enjoy!
+📍 Week 14-20 December:
