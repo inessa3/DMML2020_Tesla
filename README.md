@@ -44,8 +44,11 @@ In this project we are going to build a Machine Learning model that can predict 
 3.   Made a weekly update on Github
 
 📍 Week 14-20 December:
+1.   We finalize all the notebooks we have for this project.
+2.   We recorded a video to be posted on Youtube and shared with our classmates.
+3.   Made a weekly update on Github.
+3.   Made a post with a link to video on Slack.
 
 🎥 The link to the video : (*to be added soon*)
-
 
 Enjoy!
