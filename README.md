@@ -49,6 +49,9 @@ In this project we are going to build a Machine Learning model that can predict 
 3.   Made a weekly update on Github.
 3.   Made a post with a link to video on Slack.
 
-🎥 The link to the video : (*to be added soon*)
+🎥 The link to the video : 
+Part 1: https://youtu.be/_PluzOFW8OU
+Part 2: https://youtu.be/CSc4zcc48yU
+
 
 Enjoy!
