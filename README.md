@@ -14,13 +14,13 @@ Our work consists of four notebooks: <br/>
 3. 2nd Iteration Advanced Data Cleaning <br/>
 4. 3rd Iteration Other Classifiers <br/>
 <br/>
-## Github structure
 
+## Github structure and how to run our code
 Our Github repository is organised as following : 
-* Code
-* Data
-* Documents
-* README.md
+* Code: In this folder are the Colab notebooks. To run our code you can just open a notebook and run it with Google Colaboratory.
+* Data: Here, we stored all the data files that we used along the project.
+* Documents: Here, we stored our presentation pdf and our and image of our results
+* README.md: This file is the one which your are reading now.
 <br/>
 
 ## Our approach
