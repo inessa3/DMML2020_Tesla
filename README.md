@@ -9,10 +9,10 @@ The computational analysis of text in the form of tweets is a typical problem in
 [Source](https://en.wikipedia.org/wiki/Natural_language_processing)
 <br/>
 Our work consists of four notebooks: <br/>
-1. EDA
-2. 1st Iteration Basic Data Cleaning and Basic Predictions
-3. 2nd Iteration Advanced Data Cleaning
-4. 3rd Iteration Other Classifiers
+1. EDA <br/>
+2. 1st Iteration Basic Data Cleaning and Basic Predictions <br/>
+3. 2nd Iteration Advanced Data Cleaning <br/>
+4. 3rd Iteration Other Classifiers <br/>
 <br/>
 ## How to run the Code
 PLEASE WRITE HERE INESSA MERIEM <br/>
