@@ -81,4 +81,5 @@ Enjoy!
 1.   We finalize all the notebooks we have for this project.
 2.   We recorded a video to be posted on Youtube and shared with our classmates.
 3.   Made a weekly update on Github.
-3.   Made a post with a link to video on Slack.
+4.   Made a post with a link to video on Slack.
+
