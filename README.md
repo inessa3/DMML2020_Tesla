@@ -8,15 +8,15 @@ The computational analysis of text in the form of tweets is a typical problem in
 [Source](https://en.wikipedia.org/wiki/Natural_language_processing)
 <br/>
 Our work consists of four notebooks: <br/>
-1.     EDA
-2.     1st Iteration Basic Data Cleaning and Basic Predictions
-3.     2nd Iteration Advanced Data Cleaning
-4.     3rd Iteration Other Classifiers
+1. EDA
+2. 1st Iteration Basic Data Cleaning and Basic Predictions
+3. 2nd Iteration Advanced Data Cleaning
+4. 3rd Iteration Other Classifiers
 <br/>
 ## How to run the Code
 PLEASE WRITE HERE INESSA MERIEM <br/>
 
-## Our weekly progress
+## Our approach
 It was our approach to move in iterations:
 *      First, we needed to understand the problem at hand, so we started with EDA (exploratory data analysis). There, we calculated the base rate and visualized the data. 
 *      Then, we cleaned the data for the first time and made our first predictions. Here, we obtained our best score, which was 0.811 on AI-crowd. 
@@ -35,7 +35,7 @@ Part 2: https://youtu.be/CSc4zcc48yU <br/>
 Enjoy!
 
 
-
+## Our weekly progress
 📍Week 9-15 November:
 1.   We got acquainted with each other 
 2.   We created slack channel, github repository for further collaboration (all the members are there 👍)
