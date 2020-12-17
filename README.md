@@ -1,5 +1,5 @@
 # DMML2020 Group Tesla
-## Team: Inessa Khaneeva, Jakob Kampik, Mariem Guebibia )
+## Team: Inessa Khaneeva, Jakob Kampik, Mariem Guebibia
 ### _Real or Not? NLP with Disaster Tweets_
 In this project we built a Machine Learning model that can predict which tweets are about a real disasters and which are not. <br/>
 <br/>
