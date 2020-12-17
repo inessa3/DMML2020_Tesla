@@ -33,6 +33,9 @@ It was our approach to move in iterations:
 Conclusively, we can say that our first approach (using basic data cleaning and a logistic regression classifier without cross validation obtained the best accuracy. This might be due to the relatively small data set.<br/>
 <br/>
 
+## Our results
+![alt text](https://github.com/inessa3/DMML2020_Tesla/blob/main/documents/Results.png)
+
 Here, we made a video where we present our work and our results.<br/>
 🎥 The link to two parts of the video : <br/>
 Part 1: https://youtu.be/_PluzOFW8OU <br/>
