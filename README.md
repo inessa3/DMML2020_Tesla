@@ -17,6 +17,7 @@ Our work consists of four notebooks: <br/>
 ## How to run the Code
 PLEASE WRITE HERE INESSA MERIEM <br/>
 
+
 ## Our approach
 It was our approach to move in iterations:
 * First, we needed to understand the problem at hand, so we started with EDA (exploratory data analysis). There, we calculated the base rate and visualized the data. 
@@ -24,7 +25,7 @@ It was our approach to move in iterations:
 * Next, made another iteration and tried to clean the data much better to improve the accuracy. But the accuracy actually decreased.
 * Finally, in the third iteration, we tried many classifiers to improve the accuracy, but they all led to a decrease in the accuracy.
 <br/>
-Conclusivly, we can say that our first approach (using basic data cleaning and a logistic regression classifier without cross validation obtained the best accuracy. This might be due to the relatively small data set.<br/>
+Conclusively, we can say that our first approach (using basic data cleaning and a logistic regression classifier without cross validation obtained the best accuracy. This might be due to the relatively small data set.<br/>
 <br/>
 
 Here, we made a video where we present our work and our results.<br/>
