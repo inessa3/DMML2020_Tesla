@@ -7,7 +7,6 @@ In this project we built a Machine Learning model that can predict which tweets 
 
 The computational analysis of text in the form of tweets is a typical problem in NLP (natural language processing). NLP is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
 [Source](https://en.wikipedia.org/wiki/Natural_language_processing)
-
 <br/>
 Our work consists of four notebooks: <br/>
 1. EDA
