@@ -18,10 +18,10 @@ PLEASE WRITE HERE INESSA MERIEM <br/>
 
 ## Our approach
 It was our approach to move in iterations:
-*      First, we needed to understand the problem at hand, so we started with EDA (exploratory data analysis). There, we calculated the base rate and visualized the data. 
-*      Then, we cleaned the data for the first time and made our first predictions. Here, we obtained our best score, which was 0.811 on AI-crowd. 
-*      Next, made another iteration and tried to clean the data much better to improve the accuracy. But the accuracy actually decreased.
-*      Finally, in the third iteration, we tried many classifiers to improve the accuracy, but they all led to a decrease in the accuracy.
+* First, we needed to understand the problem at hand, so we started with EDA (exploratory data analysis). There, we calculated the base rate and visualized the data. 
+* Then, we cleaned the data for the first time and made our first predictions. Here, we obtained our best score, which was 0.811 on AI-crowd. 
+* Next, made another iteration and tried to clean the data much better to improve the accuracy. But the accuracy actually decreased.
+* Finally, in the third iteration, we tried many classifiers to improve the accuracy, but they all led to a decrease in the accuracy.
 <br/>
 Conclusivly, we can say that our first approach (using basic data cleaning and a logistic regression classifier without cross validation obtained the best accuracy. This might be due to the relatively small data set.<br/>
 <br/>
