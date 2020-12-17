@@ -27,10 +27,11 @@ Conclusivly, we can say that our first approach (using basic data cleaning and a
 <br/>
 
 Here, we made a video where we present our work and our results.<br/>
-🎥 The link to the video : <br/>
+🎥 The link to two parts of the video : <br/>
 Part 1: https://youtu.be/_PluzOFW8OU <br/>
 Part 2: https://youtu.be/CSc4zcc48yU <br/>
-
+(Youtube somehow did not accept it when we uploaded it as one video, but this worked.)
+<br/>
 
 Enjoy!
 
