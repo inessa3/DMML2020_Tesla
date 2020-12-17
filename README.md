@@ -14,10 +14,14 @@ Our work consists of four notebooks: <br/>
 3. 2nd Iteration Advanced Data Cleaning <br/>
 4. 3rd Iteration Other Classifiers <br/>
 <br/>
-## How to run the Code
+## Github structure
 
-PLEASE WRITE HERE INESSA MERIEM <br/>
-
+Our Github repository is organised as following : 
+* Code
+* Data
+* Documents
+* README.md
+<br/>
 
 ## Our approach
 It was our approach to move in iterations:
@@ -28,9 +32,6 @@ It was our approach to move in iterations:
 <br/>
 Conclusively, we can say that our first approach (using basic data cleaning and a logistic regression classifier without cross validation obtained the best accuracy. This might be due to the relatively small data set.<br/>
 <br/>
-
-## Our results
-![alt text](https://github.com/inessa3/DMML2020_Tesla/blob/main/documents/Results.png)
 
 Here, we made a video where we present our work and our results.<br/>
 🎥 The link to two parts of the video : <br/>
